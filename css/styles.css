@@ -257,8 +257,9 @@ span {
     font-size: 14px;
 }
 
-.box-content p {
+.box-content p a {
     color: #007185;
+    text-decoration: none;
 }
 
 /* footer */
@@ -271,6 +272,11 @@ span {
     justify-content: center;
     align-items: center;
     font-size: 13px; 
+}
+
+.foot-panel1 a {
+    color: white;
+    text-decoration: none;
 }
 
 .foot-panel2 {
@@ -340,5 +346,4 @@ ul a {
 .copyright {
     padding-top: 10px;
 }
-
 
