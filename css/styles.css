@@ -306,6 +306,11 @@ ul a {
     margin-top: 10px;
 }
 
+
+ul a:hover {
+    text-decoration: underline;
+}
+
 /* foot-panel3 */
 
 .foot-panel3 {
